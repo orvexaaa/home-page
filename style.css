@@ -1,0 +1,167 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:'Segoe UI', Arial, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #60a5fa, #2563eb);
+}
+
+
+.halaman-beranda {
+    min-height: 100vh;
+    height: auto;
+    display: block;
+    padding: 32px;
+}
+
+.halaman-beranda .beranda {
+    background: #ffffff;
+    width: 100%;
+    max-width: 1000px;
+    margin: 32px auto;
+    padding: 32px;
+    border-radius: 20px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+
+    animation: fadeIn 0.8s ease;
+}
+
+.atas {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 16px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+.card-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-top: 24px;
+}
+
+.card {
+    flex: 1 1 180px;
+    padding: 20px;
+    border-radius: 16px;
+    background: #dbe4f5;
+    border-left: 5px solid #2563eb;
+}
+
+.card h3 {
+    color: #3300ff;
+    margin-bottom: 6px;
+}
+
+.profil-card {
+    margin: 32px auto;
+    margin-top: 30px;
+    width: 100%;
+    max-width: 1000px;
+    padding: 25px;
+    background: white;
+    border-radius: 20px;
+
+    animation: fadeIn 0.8s ease;
+}
+
+.header-profil {
+    margin-bottom: 25px;
+    border-bottom: 2px solid #ddd;
+}
+
+.profil-content {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.card-foto img {
+    width: 100%;
+    max-width: 180px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 15px;
+}
+.info-profil {
+    flex: 1;
+}
+
+.container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    background: white;
+}
+
+main {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#keahlian {
+    width: calc(100% - 30px);
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    background: white;
+    border-radius: 15px;
+
+    animation: fadeIn 0.8s ease;
+}
+
+.header-keahlian {
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #dbe4f5;
+}
+
+.header-keahlian h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #1e293b;
+}
+
+
+.skill-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+
+}
+
+.skill-card {
+    flex: 1 1 120px;
+    padding: 20px;
+    padding-top: 10px;
+    text-align: center;
+    color: #3300ff;
+    border-radius: 15px;
+    background: #dbe4f5;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
