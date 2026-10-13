@@ -2,13 +2,6 @@
 
 A personal portfolio website built to showcase my profile, skills, achievements, and journey as a developer.
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Status-In%20Development-3b82f6?style=for-the-badge](https://img.shields.io/badge/Status-In%20Development-3b82f6?style=for-the-badge)" alt="Project Status">
-&#x20; \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5">
-&#x20; \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3">
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" alt="JavaScript">
-\</p>
-
 ## ✨ About the Project
 
 Tuesday Portfolio is a personal website designed to introduce myself, showcase my technical skills, and document my development journey.
@@ -79,6 +72,3 @@ Currently learning web development and exploring backend engineering, AI, and so
 
 ---
 
-\<p align="center">
-&#x20; Made with ❤️ and curiosity.
-\</p>
