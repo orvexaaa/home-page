@@ -1,4 +1,4 @@
-# ✦ Tuesday Portfolio
+# ✦ Simple Portofolio
 
 A personal portfolio website built to showcase my profile, skills, achievements, and journey as a developer.
 
@@ -39,8 +39,7 @@ tuesday-portofolio/
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
+   git clone https://github.com/orvexaaa/home-page
 
 2. Open the project folder.
 
